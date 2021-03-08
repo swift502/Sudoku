@@ -11,7 +11,7 @@ One of my first programming projects made for a school assignment in February 20
 ## Features
 
 - Very bad Sudoku puzzle generator (puzzles may be unsolvable)
-- Nice animations
+- Nice visuals 🙂
 - Solving aids
 
 ## Running the game
