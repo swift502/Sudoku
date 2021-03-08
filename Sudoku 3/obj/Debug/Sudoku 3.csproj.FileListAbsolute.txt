@@ -1,0 +1,21 @@
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\bin\Debug\Sudoku 3.exe.config
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\bin\Debug\Sudoku 3.exe
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\bin\Debug\Sudoku 3.pdb
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.csprojResolveAssemblyReference.cache
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku_3.Form1.resources
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku_3.Properties.Resources.resources
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.csproj.GenerateResource.Cache
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.exe
+c:\users\honza\documents\visual studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.pdb
+C:\Users\Honza\Documents\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku_3.Settings.resources
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\bin\Debug\Sudoku 3.exe.config
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\bin\Debug\Sudoku 3.exe
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\bin\Debug\Sudoku 3.pdb
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.csprojAssemblyReference.cache
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku_3.Form1.resources
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku_3.Properties.Resources.resources
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku_3.Settings.resources
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.csproj.GenerateResource.cache
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.csproj.CoreCompileInputs.cache
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.exe
+C:\Users\blaha\Desktop\Visual Studio 2015\Projects\Sudoku 3\Sudoku 3\obj\Debug\Sudoku 3.pdb
