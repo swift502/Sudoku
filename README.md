@@ -1,6 +1,6 @@
 # Sudoku
 
-A game of Sudoku.
+Pretty UI for solving Sudoku puzzles.
 
 One of my first programming projects made for a school assignment in February 2016. Code is relatively clean, commented in Czech. Published for archival purposes.
 
@@ -11,7 +11,6 @@ One of my first programming projects made for a school assignment in February 20
 ## Features
 
 - Very bad Sudoku puzzle generator (puzzles may be unsolvable)
-- Nice visuals 🙂
 - Solving aids
 
 ## Running the game
