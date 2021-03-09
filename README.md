@@ -2,7 +2,7 @@
 
 A game of Sudoku.
 
-One of my first programming projects made for a school assignment in February 2016. Code is relatively clean, commented in Czech. Published for archival reasons.
+One of my first programming projects made for a school assignment in February 2016. Code is relatively clean, commented in Czech. Published for archival purposes.
 
 <div align="center">
 	<img src="images/preview.png"></div>
